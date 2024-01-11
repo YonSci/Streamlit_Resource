@@ -77,6 +77,6 @@ Deployment: Gain insights into deploying your Streamlit application to cloud pla
 - Finalizing the deployment process
 
 ### Links
-• GitHub repository for the ML model: https://github.com/YonSci/ML_classifier
-• ML Model deployed on Streamlit Cloud: https://mlclassifierjntfcz3ekfn8jf6czjvdxu.streamlit.app/
-• Email: yonas.mersha14@gmail.com
+• GitHub repository for the ML model: https://github.com/YonSci/ML_classifier  
+• ML Model deployed on Streamlit Cloud: https://mlclassifierjntfcz3ekfn8jf6czjvdxu.streamlit.app/  
+• Email: yonas.mersha14@gmail.com  
