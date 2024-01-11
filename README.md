@@ -1,5 +1,5 @@
 # Streamlit 
-[!Alt text](https://github.com/YonSci/Streamlit_Resource/blob/main/streamlit.png)  
+[Alt text](https://github.com/YonSci/Streamlit_Resource/blob/main/streamlit.png)  
 
 ## Welcome to the Streamlit Lecture Note Tutorial repository! 🚀
 
