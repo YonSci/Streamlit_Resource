@@ -16,30 +16,30 @@ Deployment: Gain insights into deploying your Streamlit application to cloud pla
 - Overview of Streamlit
 - Benefits and use cases
 - Introduction to the tutorial structure
-- 
+  
 ### Module 1: Installation
 - Installing Streamlit on Windows
 - Installing Streamlit on Linux
 - Setting up the development environment
-- 
+
 ### Module 2: Displaying Content
 - Basic text display with Streamlit
 - Displaying images, videos, and audio files
-- 
+   
 ### Module 3: Input Widgets
 - Introduction to input widgets
 - Text input, sliders, and buttons
 - Handling user input in Streamlit
-- 
+  
 ### Module 4: Progress and Status
 - Creating progress bars
 - Displaying status messages
 - Updating content dynamically
-- 
+  
 ### Module 5: Layout Design
 - Sidebar and container usage
 - Customizing the layout of your Streamlit app
-- 
+  
 ### Module 6: Data Visualization
 - Displaying graphs using Streamlit
 - Integrating different chart types
@@ -67,7 +67,7 @@ Deployment: Gain insights into deploying your Streamlit application to cloud pla
 - Deploying a machine learning application locally
 - Configuring deployment settings
 - Testing the deployed app
-- 
+  
 ### Module 12: Web Deployment
 - Deploying the machine learning application on the web
 - Choosing a platform for web deployment
