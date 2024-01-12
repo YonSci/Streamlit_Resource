@@ -18,8 +18,7 @@ Deployment: Gain insights into deploying your Streamlit application to cloud pla
 ### Introduction
 - Overview of Streamlit
 - Benefits and use cases
-- Introduction to the tutorial structure
-  
+    
 ### Module 1: Installation
 - Installing Streamlit on Windows
 - Installing Streamlit on Linux
@@ -37,21 +36,17 @@ Deployment: Gain insights into deploying your Streamlit application to cloud pla
 ### Module 4: Progress and Status
 - Creating progress bars
 - Displaying status messages
-- Updating content dynamically
   
 ### Module 5: Layout Design
 - Sidebar and container usage
-- Customizing the layout of your Streamlit app
-  
+    
 ### Module 6: Data Visualization
 - Displaying graphs using Streamlit
 - Integrating different chart types
-- Enhancing visualizations with Streamlit
 
 ### Module 7: Geospatial Visualization
 - Displaying maps with Streamlit
-- Adding interactive features to maps
-  
+-   
 ### Module 8: Theming
 - Changing themes in Streamlit
 - Customizing the appearance of your app
@@ -61,20 +56,15 @@ Deployment: Gain insights into deploying your Streamlit application to cloud pla
 - Combining various Streamlit features
 - Understanding app structure and design
 
-### Module 10: Machine Learning Application
-- Building a machine learning application with Streamlit
-- Integrating a machine learning model
-- Testing and fine-tuning the ML app locally
-
-### Module 11: Deployment
-- Deploying a machine learning application locally
+### Module 10: Machine Learning Application and Deployment 
+- Building a machine learning application 
+- Deploying and integrating a machine-learning model with streamlit locally 
 - Configuring deployment settings
 - Testing the deployed app
   
-### Module 12: Web Deployment
+### Module 11: Web Deployment
 - Deploying the machine learning application on the web
-- Choosing a platform for web deployment
-- Finalizing the deployment process
+- Testing the deployed app
 
 ### Links
 • GitHub repository for the ML model: https://github.com/YonSci/ML_classifier  
