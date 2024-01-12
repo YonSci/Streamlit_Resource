@@ -46,7 +46,7 @@ Deployment: Gain insights into deploying your Streamlit application to cloud pla
 
 ### Module 7: Geospatial Visualization
 - Displaying maps with Streamlit
--   
+  
 ### Module 8: Theming
 - Changing themes in Streamlit
 - Customizing the appearance of your app
